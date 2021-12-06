@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+  }
+
+  .column{
+    background-color:pink;
+    float: left;
+    width: 25%;
+    padding: 30px;
+    height: 360px;
+     
+    border: double;
+  }
+
